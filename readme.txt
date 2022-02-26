@@ -8,6 +8,8 @@
 　3.任意をブロックを設置した時、10×10マス分同じブロックを設置します。
 
 ■使い方
+　0.下記をダウンロードします。
+　　https://github.com/IdeKazuhiko/seichi-plugin/blob/master/seichi_plugin-0.1.jar
 　1.spigotのディレクトリ/plugins/配下にseichi_plugin-0.1.jarを配置します。
 　2.サーバーを再起動、または/reloadコマンドでブラグインを再読み込みします。
 　3.使用をやめたい場合は、/seichi offコマンドでプラグインの処理が停止します。
