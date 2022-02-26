@@ -1,0 +1,11 @@
+name: Seichi_plugin
+version: '${project.version}'
+main: com.example.seichi_plugin.main
+api-version: 1.18
+authors: [ kazui ]
+description: 整地プラグイン
+
+commands:
+  seichi:
+    description: "整地プラグインの有効・無効を設定します"
+    usage: "seichi on, seichi off"
